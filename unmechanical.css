@@ -1,0 +1,44 @@
+body{
+	background: yellow;
+}
+
+h1{
+	font-size: 150px;
+	text-align: center;
+	font-family: Monaco;
+	font-weight: normal
+}
+
+a {
+	color: cyan;
+	text-decoration: none;
+	font-family: Monaco;
+	font-size: 50px;
+}
+
+a:hover{color:magenta;}
+
+ul{list-style-type: none;
+	color: cyan
+	text-decoration:none;
+	font-family: Monaco
+	font-size: 50 px;
+}
+
+ul.navbar {
+    position: absolute;
+    top: 1000px;
+    left: 2000px;
+    width: 900px 
+}
+
+img {width: 900px;
+	height: 600px;
+	padding-left: 100px;
+}
+
+
+	
+
+
+
